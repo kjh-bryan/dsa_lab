@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1646124534 source:d:\school\y1\sem2\sc1007\lab\week5stackandqueue\mainq1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1646126096 source:d:\school\y1\sem2\sc1007\lab\week5stackandqueue\mainq2.c
+	<stdio.h>
+	<stdlib.h>
+
+1646127224 source:d:\school\y1\sem2\sc1007\lab\week5stackandqueue\mainq3.c
+	<stdio.h>
+	<stdlib.h>
+
+1646132705 source:d:\school\y1\sem2\sc1007\lab\week5stackandqueue\mainq4.c
+	<stdio.h>
+	<stdlib.h>
+
+1646134884 source:d:\school\y1\sem2\sc1007\lab\week5stackandqueue\mainp3.c
+	<stdio.h>
+	<stdlib.h>
+
+1646140398 source:d:\school\y1\sem2\sc1007\lab\week5stackandqueue\mainp4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

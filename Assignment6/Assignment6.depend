@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648252717 source:d:\school\y1\sem2\sc1007\lab\assignment6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648269448 source:d:\school\y1\sem2\sc1007\lab\assignment6\shortestdistance.c
+	<stdio.h>
+	<stdlib.h>
+
+1648264962 source:d:\school\y1\sem2\sc1007\lab\assignment6\graphdirectedconnection.c
+	<stdio.h>
+	<stdlib.h>
+
