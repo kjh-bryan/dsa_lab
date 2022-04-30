@@ -33,16 +33,11 @@
 		</Compiler>
 		<Unit filename="graphdirectedconnection.c">
 			<Option compilerVar="CC" />
-			<Option compile="0" />
-			<Option link="0" />
 		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
-		</Unit>
-		<Unit filename="shortestdistance.c">
-			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />

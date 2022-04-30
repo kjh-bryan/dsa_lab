@@ -137,6 +137,8 @@ int main()
     g.matrix[2][0] = 1;
     g.matrix[1][3] = 1;
     g.matrix[3][1] = 1;
+    g.matrix[1][2] = 1;
+    g.matrix[2][1] = 1;
     printGraphMatrix(g);
     printf("Enter two vertices for finding their shortest distance: (press a to stop)\n");
 //    scanf("%d %d", &i, &j);

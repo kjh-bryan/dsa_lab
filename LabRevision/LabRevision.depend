@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1650364391 source:d:\school\y1\sem2\sc1007\lab\labrevision\l5q1.c
+	<stdio.h>
+	<stdlib.h>
+
+1650368014 source:d:\school\y1\sem2\sc1007\lab\labrevision\l5q23.c
+	<stdio.h>
+	<stdlib.h>
+
+1650371536 source:d:\school\y1\sem2\sc1007\lab\labrevision\l6q1.c
+	<stdio.h>
+	<stdlib.h>
+
+1650517756 source:d:\school\y1\sem2\sc1007\lab\labrevision\l6q2.c
+	<stdio.h>
+	<stdlib.h>
+
+1650440617 source:d:\school\y1\sem2\sc1007\lab\labrevision\l7q2.c
+	<stdio.h>
+	<stdlib.h>
+
+1650441138 source:d:\school\y1\sem2\sc1007\lab\labrevision\l7q3.c
+	<stdio.h>
+	<stdlib.h>
+
+1650441887 source:d:\school\y1\sem2\sc1007\lab\labrevision\l8q1.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1650449250 source:d:\school\y1\sem2\sc1007\lab\labrevision\l8q2.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
+1650450405 source:d:\school\y1\sem2\sc1007\lab\labrevision\l8q3.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+

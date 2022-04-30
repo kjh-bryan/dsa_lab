@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1649171498 source:d:\school\y1\sem2\sc1007\lab\lab8\lab8\q1.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1649419870 source:d:\school\y1\sem2\sc1007\lab\lab8\lab8\q2.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
+1649502173 source:d:\school\y1\sem2\sc1007\lab\lab8\lab8\q3.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
